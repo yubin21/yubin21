@@ -1,5 +1,4 @@
-
-# 멋진 개발자가 되고 싶은 김유빈입니다😄
+# 좋은 개발을 하고 싶은 김유빈입니다. 👋
 
 ## Introduce ME 🥳
 
@@ -24,7 +23,6 @@
 📗 Velog
 
 [https://velog.io/@ycoding/series](https://velog.io/@ycoding/series)
-
 
 
 🌈 Github
