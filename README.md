@@ -1,4 +1,6 @@
-# 좋은 개발을 하고 싶은 김유빈입니다. 👋
+# 멋진! 개발자가 되고 싶은 김유빈입니다 👋
+- 사용자들의 관점에서 먼저 생각하는 **멋진** 개발을 진행합니다.
+- 유지보수가 편하고, 다른 개발자가 읽기 편한 **멋진** 코드를 지향합니다.
 
 ## Introduce ME 🥳
 
@@ -16,10 +18,6 @@
 ## Contact ME 👋
 
 
-✨ Instargram
-
-[https://www.instagram.com/u1bin_y/](https://www.instagram.com/u1bin_y/)
-
 📗 Velog
 
 [https://velog.io/@ycoding/series](https://velog.io/@ycoding/series)
@@ -31,7 +29,7 @@
 
 🎉 Notion
 
-[Yubin, the developer.](https://www.notion.so/Yubin-the-developer-f9490f61086b4c38b3ab62ea413d2256)
+[Yubin, the developer.](https://yubin-dev.notion.site/Yubin-the-developer-f9490f61086b4c38b3ab62ea413d2256)
 
 📨 Email
 
