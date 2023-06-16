@@ -1,42 +1,33 @@
-# 멋진! 개발자가 되고 싶은 김유빈입니다 👋
+# 믿음을 줄 수 있는 개발자, 김유빈입니다.
 - 사용자들의 관점에서 먼저 생각하는 **멋진** 개발을 진행합니다.
 - 유지보수가 편하고, 다른 개발자가 읽기 편한 **멋진** 코드를 지향합니다.
 
-## Introduce ME 🥳
+## Introduce
 
 
 🛠 항상 좋은 코드를 생각하는 개발자입니다.
 
 🌱 성장하고 발전하기 위해 꾸준히 노력합니다.
 
-💻 매일 IT관련 새로운 소식을 읽고 분석합니다.
+💻 IT관련 새로운 소식을 읽고 분석합니다.
 
 📝 모든일에 계획을 세우고 실천합니다.
 
 🤓 블로그를 통해 개발일지를 작성합니다.
 
-## Contact ME 👋
+## Contact
 
 
-📗 Velog
+📗 [Tistory](https://dev-yubin.tistory.com)
 
-[https://velog.io/@ycoding/series](https://velog.io/@ycoding/series)
+🌈 [Github](https://github.com/yubin21)
 
+🎉 [Notion](https://www.notion.so/dev-yubin/Yubin-the-developer-f9490f61086b4c38b3ab62ea413d2256?pvs=4)
 
-🌈 Github
+📨 garmalhy1@gmail.com
 
-[https://github.com/yubin21?tab=repositories](https://github.com/yubin21?tab=repositories)
-
-🎉 Notion
-
-[Yubin, the developer.](https://yubin-dev.notion.site/Yubin-the-developer-f9490f61086b4c38b3ab62ea413d2256)
-
-📨 Email
-
-garmalhy1@gmail.com
-
-## ✨yubin's tech stack✨
-### Techs that I've used at least once✏
+## Tech stack
+### Techs that I've used at least once
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,9 +42,3 @@ garmalhy1@gmail.com
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-yubin21/yubin21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
